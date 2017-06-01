@@ -1,6 +1,6 @@
 # Peruplaces
 
-[![Preview](./banner.png)]
+![Preview](./banner.png)
 
 This is an application that shows the tourist places of Peru using reac-native
 
