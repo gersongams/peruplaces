@@ -1,33 +1,4 @@
-# Peruplaces
-
-[![Preview](./banner.png)][1]
-[![MIT License][2]][1] [![Javascript][3]][1] [![react-native][4]][1] 
-
-This is an application that shows the tourist places of Peru using reac-native
-
-## How to use
-
-1. Clone the repository
-    ```
-    $ git clone https://github.com/gersongams/peruplaces
-    $ cd peruplaces 
-    $ $ npm install or yarn
-    ```
-
-2. Start the app
-    ```
-    $ react-native start
-    $ react-native run-android
-    $ react-native run-ios
-    ```
-
-3. Waits until the web browser is open, navigate to the repository directory and enjoy :smile:
-
-## Author
-
-* [@gersongams](https://github.com/gersongams)
-
-## Licensing
+# Licensing
 
 All resources developed by me in this repository is released under the MIT license.
 
