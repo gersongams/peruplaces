@@ -2,7 +2,7 @@
 
 ![Preview](./banner.png)
 
-This is an application that shows the tourist places of Peru using reac-native
+This is an application that shows the tourist places of Peru using react-native
 
 ## How to use
 
