@@ -1,0 +1,13 @@
+{
+    "extends": "rallycoding",
+    "env": {
+        "browser": true
+    },
+    "globals": {
+        "fetch": true
+    },
+    "rules":{
+        "eol-last": "off",
+        "arrow-body-style": "off"
+    }
+}
