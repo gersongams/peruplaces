@@ -20,7 +20,7 @@ This is an application that shows the tourist places of Peru using reac-native
     $ react-native run-ios
     ```
 
-3. Waits until the web browser is open, navigate to the repository directory and enjoy :smile:
+3. Waits until the android emulator finish to render and enjoy! 
 
 ## Author
 
